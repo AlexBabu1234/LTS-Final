@@ -34,3 +34,6 @@ This project is a **Python-based Language Translation System (LTS)** that allows
 
 3. Run the Python File:
     python final.py
+
+License
+This project is open-source
