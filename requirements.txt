@@ -1,0 +1,9 @@
+speechrecognition
+pyaudio
+ttkthemes
+pillow
+langdetect
+pydub
+googletrans==4.0.0-rc1
+faster-whisper
+requests
